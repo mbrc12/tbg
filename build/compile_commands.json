@@ -1,0 +1,692 @@
+[
+{
+  "directory": "/home/subwave/gamedev/tbg/build",
+  "command": "/usr/bin/c++ -DBACKWARD_HAS_BACKTRACE=0 -DBACKWARD_HAS_BACKTRACE_SYMBOL=0 -DBACKWARD_HAS_BFD=0 -DBACKWARD_HAS_DW=1 -DBACKWARD_HAS_DWARF=0 -DBACKWARD_HAS_LIBUNWIND=0 -DBACKWARD_HAS_UNWIND=1 -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/src -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/backward-cpp -I/home/subwave/gamedev/tbg/deps/tmxlite/tmxlite/include -std=gnu++20 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/subwave/gamedev/tbg/src/main.cpp",
+  "file": "/home/subwave/gamedev/tbg/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build",
+  "command": "/usr/bin/c++ -DBACKWARD_HAS_BACKTRACE=0 -DBACKWARD_HAS_BACKTRACE_SYMBOL=0 -DBACKWARD_HAS_BFD=0 -DBACKWARD_HAS_DW=1 -DBACKWARD_HAS_DWARF=0 -DBACKWARD_HAS_LIBUNWIND=0 -DBACKWARD_HAS_UNWIND=1 -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/src -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/backward-cpp -I/home/subwave/gamedev/tbg/deps/tmxlite/tmxlite/include -std=gnu++20 -o CMakeFiles/main.dir/src/common.cpp.o -c /home/subwave/gamedev/tbg/src/common.cpp",
+  "file": "/home/subwave/gamedev/tbg/src/common.cpp",
+  "output": "CMakeFiles/main.dir/src/common.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build",
+  "command": "/usr/bin/c++ -DBACKWARD_HAS_BACKTRACE=0 -DBACKWARD_HAS_BACKTRACE_SYMBOL=0 -DBACKWARD_HAS_BFD=0 -DBACKWARD_HAS_DW=1 -DBACKWARD_HAS_DWARF=0 -DBACKWARD_HAS_LIBUNWIND=0 -DBACKWARD_HAS_UNWIND=1 -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/src -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/backward-cpp -I/home/subwave/gamedev/tbg/deps/tmxlite/tmxlite/include -std=gnu++20 -o CMakeFiles/main.dir/src/arch.cpp.o -c /home/subwave/gamedev/tbg/src/arch.cpp",
+  "file": "/home/subwave/gamedev/tbg/src/arch.cpp",
+  "output": "CMakeFiles/main.dir/src/arch.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build",
+  "command": "/usr/bin/c++ -DBACKWARD_HAS_BACKTRACE=0 -DBACKWARD_HAS_BACKTRACE_SYMBOL=0 -DBACKWARD_HAS_BFD=0 -DBACKWARD_HAS_DW=1 -DBACKWARD_HAS_DWARF=0 -DBACKWARD_HAS_LIBUNWIND=0 -DBACKWARD_HAS_UNWIND=1 -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/src -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/backward-cpp -I/home/subwave/gamedev/tbg/deps/tmxlite/tmxlite/include -std=gnu++20 -o CMakeFiles/main.dir/src/input.cpp.o -c /home/subwave/gamedev/tbg/src/input.cpp",
+  "file": "/home/subwave/gamedev/tbg/src/input.cpp",
+  "output": "CMakeFiles/main.dir/src/input.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build",
+  "command": "/usr/bin/c++ -DBACKWARD_HAS_BACKTRACE=0 -DBACKWARD_HAS_BACKTRACE_SYMBOL=0 -DBACKWARD_HAS_BFD=0 -DBACKWARD_HAS_DW=1 -DBACKWARD_HAS_DWARF=0 -DBACKWARD_HAS_LIBUNWIND=0 -DBACKWARD_HAS_UNWIND=1 -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/src -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/backward-cpp -I/home/subwave/gamedev/tbg/deps/tmxlite/tmxlite/include -std=gnu++20 -o CMakeFiles/main.dir/src/events.cpp.o -c /home/subwave/gamedev/tbg/src/events.cpp",
+  "file": "/home/subwave/gamedev/tbg/src/events.cpp",
+  "output": "CMakeFiles/main.dir/src/events.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build",
+  "command": "/usr/bin/c++ -DBACKWARD_HAS_BACKTRACE=0 -DBACKWARD_HAS_BACKTRACE_SYMBOL=0 -DBACKWARD_HAS_BFD=0 -DBACKWARD_HAS_DW=1 -DBACKWARD_HAS_DWARF=0 -DBACKWARD_HAS_LIBUNWIND=0 -DBACKWARD_HAS_UNWIND=1 -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/src -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/backward-cpp -I/home/subwave/gamedev/tbg/deps/tmxlite/tmxlite/include -std=gnu++20 -o CMakeFiles/main.dir/src/components/timer.cpp.o -c /home/subwave/gamedev/tbg/src/components/timer.cpp",
+  "file": "/home/subwave/gamedev/tbg/src/components/timer.cpp",
+  "output": "CMakeFiles/main.dir/src/components/timer.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Clock.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Clock.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Clock.cpp",
+  "output": "deps/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Err.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Err.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Err.cpp",
+  "output": "deps/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Sleep.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Sleep.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Sleep.cpp",
+  "output": "deps/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/String.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/String.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/String.cpp",
+  "output": "deps/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Utils.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Utils.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Utils.cpp",
+  "output": "deps/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Utils.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Vector2.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Vector2.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Vector2.cpp",
+  "output": "deps/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Vector2.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Vector3.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Vector3.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Vector3.cpp",
+  "output": "deps/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Vector3.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/FileInputStream.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/FileInputStream.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/FileInputStream.cpp",
+  "output": "deps/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/MemoryInputStream.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/MemoryInputStream.cpp",
+  "output": "deps/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-system.dir/Unix/SleepImpl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Unix/SleepImpl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/System/Unix/SleepImpl.cpp",
+  "output": "deps/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Unix/SleepImpl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Clipboard.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Clipboard.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Clipboard.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Context.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Context.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Context.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Cursor.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Cursor.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Cursor.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/GlContext.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/GlContext.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/GlContext.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/GlResource.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/GlResource.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/GlResource.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Joystick.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Joystick.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Joystick.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/JoystickManager.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/JoystickManager.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/JoystickManager.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Keyboard.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Keyboard.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Keyboard.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Mouse.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Mouse.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Mouse.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Touch.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Touch.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Touch.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Sensor.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Sensor.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Sensor.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/SensorManager.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/SensorManager.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/SensorManager.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/VideoMode.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/VideoMode.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/VideoMode.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Vulkan.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Vulkan.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Vulkan.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Window.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Window.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Window.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/WindowBase.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/WindowBase.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/WindowBase.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/WindowImpl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/WindowImpl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/WindowImpl.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/CursorImpl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/CursorImpl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/CursorImpl.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/CursorImpl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/ClipboardImpl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/ClipboardImpl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/ClipboardImpl.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/ClipboardImpl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/InputImpl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/InputImpl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/InputImpl.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/InputImpl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/KeyboardImpl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/KeyboardImpl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/KeyboardImpl.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeyboardImpl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/KeySymToKeyMapping.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/KeySymToKeyMapping.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/KeySymToKeyMapping.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeySymToKeyMapping.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/KeySymToUnicodeMapping.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/KeySymToUnicodeMapping.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/KeySymToUnicodeMapping.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/KeySymToUnicodeMapping.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/SensorImpl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/SensorImpl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/SensorImpl.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/SensorImpl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/Display.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/Display.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/Display.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/Display.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/VideoModeImpl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/VideoModeImpl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/VideoModeImpl.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VideoModeImpl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/VulkanImplX11.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/VulkanImplX11.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/VulkanImplX11.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/VulkanImplX11.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/WindowImplX11.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/WindowImplX11.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/WindowImplX11.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/WindowImplX11.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/GlxContext.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/GlxContext.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/GlxContext.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/GlxContext.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/vulkan -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/JoystickImpl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Window/Unix/JoystickImpl.cpp",
+  "output": "deps/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Unix/JoystickImpl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-network.dir/Ftp.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/Ftp.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/Ftp.cpp",
+  "output": "deps/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir/Ftp.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-network.dir/Http.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/Http.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/Http.cpp",
+  "output": "deps/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir/Http.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-network.dir/IpAddress.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/IpAddress.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/IpAddress.cpp",
+  "output": "deps/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir/IpAddress.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-network.dir/Packet.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/Packet.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/Packet.cpp",
+  "output": "deps/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir/Packet.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-network.dir/Socket.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/Socket.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/Socket.cpp",
+  "output": "deps/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir/Socket.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-network.dir/SocketSelector.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/SocketSelector.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/SocketSelector.cpp",
+  "output": "deps/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir/SocketSelector.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-network.dir/TcpListener.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/TcpListener.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/TcpListener.cpp",
+  "output": "deps/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpListener.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-network.dir/TcpSocket.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/TcpSocket.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/TcpSocket.cpp",
+  "output": "deps/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir/TcpSocket.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-network.dir/UdpSocket.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/UdpSocket.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/UdpSocket.cpp",
+  "output": "deps/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir/UdpSocket.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network",
+  "command": "/usr/bin/c++ -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-network.dir/Unix/SocketImpl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/Unix/SocketImpl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Network/Unix/SocketImpl.cpp",
+  "output": "deps/SFML/src/SFML/Network/CMakeFiles/sfml-network.dir/Unix/SocketImpl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/BlendMode.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/BlendMode.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/BlendMode.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/Font.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Font.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Font.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/Glsl.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Glsl.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Glsl.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/GLCheck.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/GLCheck.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/GLExtensions.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/GLExtensions.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -fno-strict-aliasing -o CMakeFiles/sfml-graphics.dir/Image.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Image.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Image.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/RenderStates.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderStates.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderStates.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderTexture.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderTexture.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderTarget.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderTarget.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderWindow.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderWindow.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/Shader.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Shader.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Shader.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/StencilMode.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/StencilMode.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/StencilMode.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/StencilMode.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/Texture.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Texture.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Texture.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/TextureSaver.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/TextureSaver.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/Transform.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Transform.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Transform.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/Transformable.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Transformable.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Transformable.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/View.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/View.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/View.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/Shape.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Shape.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Shape.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/CircleShape.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/CircleShape.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/CircleShape.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RectangleShape.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RectangleShape.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/ConvexShape.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/ConvexShape.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/Sprite.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Sprite.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Sprite.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/Text.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Text.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/Text.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/VertexArray.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/VertexArray.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/VertexArray.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/VertexBuffer.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/VertexBuffer.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderTextureImplFBO.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderTextureImplFBO.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics",
+  "command": "/usr/bin/c++ -DSFML_STATIC -DSTBI_FAILURE_USERMSG -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/stb_image -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/glad/include -isystem /usr/include/freetype2 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderTextureImplDefault.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Graphics/RenderTextureImplDefault.cpp",
+  "output": "deps/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/AudioResource.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/AudioResource.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/AudioResource.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioResource.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/AudioDevice.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/AudioDevice.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/AudioDevice.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/AudioDevice.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/Listener.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/Listener.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/Listener.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Listener.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/Miniaudio.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/Miniaudio.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/Miniaudio.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Miniaudio.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/MiniaudioUtils.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/MiniaudioUtils.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/MiniaudioUtils.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/MiniaudioUtils.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/Music.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/Music.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/Music.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Music.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/PlaybackDevice.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/PlaybackDevice.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/PlaybackDevice.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/PlaybackDevice.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/Sound.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/Sound.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/Sound.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/Sound.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundBuffer.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundBuffer.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBuffer.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundBufferRecorder.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundBufferRecorder.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundBufferRecorder.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/InputSoundFile.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/InputSoundFile.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/InputSoundFile.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/OutputSoundFile.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/OutputSoundFile.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/OutputSoundFile.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundRecorder.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundRecorder.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundRecorder.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundSource.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundSource.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundSource.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundStream.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundStream.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundStream.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundStream.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileFactory.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileFactory.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileFactory.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileReaderFlac.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileReaderFlac.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderFlac.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileReaderMp3.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileReaderMp3.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderMp3.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileReaderOgg.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileReaderOgg.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderOgg.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileReaderWav.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileReaderWav.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileReaderWav.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileWriterFlac.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileWriterFlac.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterFlac.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileWriterOgg.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileWriterOgg.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterOgg.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio",
+  "command": "/usr/bin/c++ -DFLAC__NO_DLL -DMA_NO_ENCODING -DMA_NO_FLAC -DMA_NO_GENERATION -DMA_NO_MP3 -DMA_NO_RESOURCE_MANAGER -DMA_USE_STDINT -DOV_EXCLUDE_STATIC_CALLBACKS -DSFML_IS_BIG_ENDIAN=0 -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/SFML/include -I/home/subwave/gamedev/tbg/deps/SFML/src -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/miniaudio -isystem /home/subwave/gamedev/tbg/deps/SFML/extlibs/headers/minimp3 -fvisibility=hidden -fvisibility-inlines-hidden -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -o CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.o -c /home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileWriterWav.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/SFML/src/SFML/Audio/SoundFileWriterWav.cpp",
+  "output": "deps/SFML/src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundFileWriterWav.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/imgui-sfml",
+  "command": "/usr/bin/c++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/SFML/include  -o CMakeFiles/ImGui-SFML.dir/imgui-SFML.cpp.o -c /home/subwave/gamedev/tbg/deps/imgui-sfml/imgui-SFML.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/imgui-sfml/imgui-SFML.cpp",
+  "output": "deps/imgui-sfml/CMakeFiles/ImGui-SFML.dir/imgui-SFML.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/imgui-sfml",
+  "command": "/usr/bin/c++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/SFML/include  -o CMakeFiles/ImGui-SFML.dir/__/imgui/imgui.cpp.o -c /home/subwave/gamedev/tbg/deps/imgui/imgui.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/imgui/imgui.cpp",
+  "output": "deps/imgui-sfml/CMakeFiles/ImGui-SFML.dir/__/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/imgui-sfml",
+  "command": "/usr/bin/c++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/SFML/include  -o CMakeFiles/ImGui-SFML.dir/__/imgui/imgui_demo.cpp.o -c /home/subwave/gamedev/tbg/deps/imgui/imgui_demo.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/imgui/imgui_demo.cpp",
+  "output": "deps/imgui-sfml/CMakeFiles/ImGui-SFML.dir/__/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/imgui-sfml",
+  "command": "/usr/bin/c++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/SFML/include  -o CMakeFiles/ImGui-SFML.dir/__/imgui/imgui_draw.cpp.o -c /home/subwave/gamedev/tbg/deps/imgui/imgui_draw.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/imgui/imgui_draw.cpp",
+  "output": "deps/imgui-sfml/CMakeFiles/ImGui-SFML.dir/__/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/imgui-sfml",
+  "command": "/usr/bin/c++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/SFML/include  -o CMakeFiles/ImGui-SFML.dir/__/imgui/imgui_tables.cpp.o -c /home/subwave/gamedev/tbg/deps/imgui/imgui_tables.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/imgui/imgui_tables.cpp",
+  "output": "deps/imgui-sfml/CMakeFiles/ImGui-SFML.dir/__/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/imgui-sfml",
+  "command": "/usr/bin/c++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/SFML/include  -o CMakeFiles/ImGui-SFML.dir/__/imgui/imgui_widgets.cpp.o -c /home/subwave/gamedev/tbg/deps/imgui/imgui_widgets.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/imgui/imgui_widgets.cpp",
+  "output": "deps/imgui-sfml/CMakeFiles/ImGui-SFML.dir/__/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/imgui-sfml",
+  "command": "/usr/bin/c++ -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" -DSFML_STATIC -I/home/subwave/gamedev/tbg/deps/imgui -I/home/subwave/gamedev/tbg/deps/imgui-sfml -I/home/subwave/gamedev/tbg/deps/SFML/include  -o CMakeFiles/ImGui-SFML.dir/__/imgui/misc/cpp/imgui_stdlib.cpp.o -c /home/subwave/gamedev/tbg/deps/imgui/misc/cpp/imgui_stdlib.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/imgui/misc/cpp/imgui_stdlib.cpp",
+  "output": "deps/imgui-sfml/CMakeFiles/ImGui-SFML.dir/__/imgui/misc/cpp/imgui_stdlib.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/backward-cpp",
+  "command": "/usr/bin/c++ -DBACKWARD_HAS_BACKTRACE=0 -DBACKWARD_HAS_BACKTRACE_SYMBOL=0 -DBACKWARD_HAS_BFD=0 -DBACKWARD_HAS_DW=1 -DBACKWARD_HAS_DWARF=0 -DBACKWARD_HAS_LIBUNWIND=0 -DBACKWARD_HAS_UNWIND=1 -I/home/subwave/gamedev/tbg/deps/backward-cpp  -Wall -Wextra -pedantic-errors -g -std=gnu++11 -o CMakeFiles/backward_object.dir/backward.cpp.o -c /home/subwave/gamedev/tbg/deps/backward-cpp/backward.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/backward-cpp/backward.cpp",
+  "output": "deps/backward-cpp/CMakeFiles/backward_object.dir/backward.cpp.o"
+},
+{
+  "directory": "/home/subwave/gamedev/tbg/build/deps/backward-cpp",
+  "command": "/usr/bin/c++ -DBACKWARD_HAS_BACKTRACE=0 -DBACKWARD_HAS_BACKTRACE_SYMBOL=0 -DBACKWARD_HAS_BFD=0 -DBACKWARD_HAS_DW=1 -DBACKWARD_HAS_DWARF=0 -DBACKWARD_HAS_LIBUNWIND=0 -DBACKWARD_HAS_UNWIND=1 -I/home/subwave/gamedev/tbg/deps/backward-cpp  -Wall -Wextra -pedantic-errors -g -std=gnu++11 -o CMakeFiles/backward.dir/backward.cpp.o -c /home/subwave/gamedev/tbg/deps/backward-cpp/backward.cpp",
+  "file": "/home/subwave/gamedev/tbg/deps/backward-cpp/backward.cpp",
+  "output": "deps/backward-cpp/CMakeFiles/backward.dir/backward.cpp.o"
+}
+]
