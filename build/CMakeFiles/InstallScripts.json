@@ -1,0 +1,17 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/subwave/gamedev/tbg/build/cmake_install.cmake",
+		"/home/subwave/gamedev/tbg/build/deps/tmxlite/tmxlite/cmake_install.cmake",
+		"/home/subwave/gamedev/tbg/build/deps/SFML/cmake_install.cmake",
+		"/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/cmake_install.cmake",
+		"/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/System/cmake_install.cmake",
+		"/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Window/cmake_install.cmake",
+		"/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Network/cmake_install.cmake",
+		"/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Graphics/cmake_install.cmake",
+		"/home/subwave/gamedev/tbg/build/deps/SFML/src/SFML/Audio/cmake_install.cmake",
+		"/home/subwave/gamedev/tbg/build/deps/imgui-sfml/cmake_install.cmake",
+		"/home/subwave/gamedev/tbg/build/deps/backward-cpp/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
