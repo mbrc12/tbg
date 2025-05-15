@@ -1,3 +1,5 @@
+#include "SFML/Window/Mouse.hpp"
+#include "assets.hpp"
 #include "colors.hpp"
 #include "input.hpp"
 #include "common.hpp"
@@ -12,8 +14,8 @@
 namespace ImSFML = ImGui::SFML;
 namespace Im = ImGui;
 
-constexpr int WIDTH = 1280;
-constexpr int HEIGHT = 720;
+constexpr int WIDTH = 1920;
+constexpr int HEIGHT = 1080;
 
 constexpr float IDEAL_RATIO = static_cast<float>(WIDTH) / HEIGHT;
 constexpr int FPS = 60;
@@ -56,14 +58,20 @@ int main() {
     io.MouseDrawCursor = true;
 
     auto &input = *Input::defaultProvider().get();
+    auto &assets = *Assets::defaultProvider().get();
 
-    sf::Font font("assets/fonts/monogram.ttf");
-    font.setSmooth(false);
+    auto &font = assets.getFont("default");
 
     sf::Text status_text(font);
     status_text.setCharacterSize(32);
     status_text.setFillColor(THEME_WHITE);
-    status_text.setPosition({0, -16});
+    status_text.setPosition({0, -18});
+    status_text.setString("ooh99");
+
+    cout << status_text.getGlobalBounds() << endl;
+
+    sf::Sprite pointer(assets.getTexture("me"));
+    pointer.setOrigin({19.5, 38.0});
 
     float current_fps = 0;
 
@@ -114,9 +122,13 @@ int main() {
 
         Im::Text("buttons: %s", input.status().c_str());
         Im::Text("mouse: %.2f, %.2f", mouse_pos.x, mouse_pos.y);
+        Im::Text("pos: %.2f, %.2f", pointer.getPosition().x, pointer.getPosition().y);
 
-        circle.setPosition(circle.getPosition() + input.normalizedDirection() * 500.f * dt_s);
-        screen.draw(circle);
+
+        pointer.setPosition(window.mapPixelToCoords(sf::Mouse::getPosition(window)));
+        screen.draw(pointer);
+
+        screen.draw(status_text);
         screen.display();
 
         window.clear(sf::Color::Black);

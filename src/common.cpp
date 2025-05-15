@@ -1,7 +1,7 @@
 #include "common.hpp"
 
 std::string str(const sf::FloatRect &rect) {
-    return std::format("({:.1f}, {:.1f} : {:.1f} x {:.1f})", rect.position.x, rect.position.y, rect.size.x,
+    return std::format("(nw: {:.1f}, {:.1f}; sz: {:.1f} x {:.1f})", rect.position.x, rect.position.y, rect.size.x,
                        rect.size.y);
 }
 

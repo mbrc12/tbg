@@ -25,6 +25,7 @@ set(SOURCE_FILES
     src/arch.cpp
     src/input.cpp
     src/events.cpp
+    src/assets.cpp
 
     src/components/timer.cpp
 )
